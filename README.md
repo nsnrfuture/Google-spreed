@@ -1,2 +1,2 @@
-npm install nodemailer
+npm install nodemailer,   
 npm install axios
